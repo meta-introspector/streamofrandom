@@ -1,3 +1,6 @@
 [submodule "2025"]
 	path = 2025
 	url = https://github.com/meta-introspector/time-2025
+[submodule "vendor/livestream-tiktok-plugin"]
+	path = vendor/livestream-tiktok-plugin
+	url = https://github.com/meta-introspector/livestream-tiktok-plugin
