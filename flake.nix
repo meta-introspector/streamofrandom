@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "github:meta-introspector/nixpkgs?ref=feature/CRQ-016-nixify";
     flake-utils.url = "github:meta-introspector/flake-utils?ref=feature/CRQ-016-nixify";
-    vendoredLintStaged.url = "github:meta-introspector/time-2025?ref=feature/CRQ-016-nixify&dir=/09/27/7-concepts/1-build-system";
+    vendoredLintStaged.url = "github:meta-introspector/time-2025?ref=feature/CRQ-016-nixify-workflow&dir=/09/27/7-concepts/1-build-system";
   };
 
   outputs = { self, nixpkgs, flake-utils, vendoredLintStaged }:
